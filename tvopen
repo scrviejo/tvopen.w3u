@@ -1,7 +1,7 @@
 {
   "name": "TV OPEN",
   "author": "SANDROP",
-  "url": " ",
+  "url": "https://raw.githubusercontent.com/scrviejo/sandrop/refs/heads/main/tv",
   "image": "https://images8.alphacoders.com/476/476725.jpg",
   "info": "SANDROP",
   "groups": [
@@ -9,7 +9,7 @@
       "name": "FUTBOL DE PERÚ",
       "image": "https://images8.alphacoders.com/476/476725.jpg",
       "stations": [
-        [{](url)
+        {
           "name": "AGENDA",
           "image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
           "url": "https://ibrafut.blogspot.com/?m=1",
@@ -259,6 +259,192 @@
           "name": "FOX SPORTS PEMIUN",
           "image": "https://www.telegratishd.com/imge/foxsportspremium.png",
           "url": "https://tvf90.com/3.php?stream=foxsportspremium",
+          "embed": true
+        }
+      ]
+    },
+    {
+      "name": "PERU",
+      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Infantiles.png",
+      "stations": [
+        {
+          "name": "AMERICA TV",
+          "image": "https://www.telegratishd.com/imge/americatv.png",
+          "url": "https://sandroptv.blogspot.com/2023/04/america-tv.html",
+          "embed": true
+        },
+        {
+          "name": "AMERICA TV GO",
+          "image": "https://www.telegratishd.com/imge/americatv.png",
+          "url": "https://tvgo.americatv.com.pe/",
+          "embed": true
+        },
+        {
+          "name": "LATINA TV",
+          "image": "https://www.telegratishd.com/imge/latina.png",
+          "url": "https://sandroptv.blogspot.com/2023/06/latina.html",
+          "embed": true
+        },
+        {
+          "name": "LATINA TV",
+          "image": "https://www.telegratishd.com/imge/latina.png",
+          "url": "https://www.latina.pe/tvenvivo",
+          "embed": true
+        },
+        {
+          "name": "PANAMERICANA TV",
+          "image": "http://peru.mom-gmr.org/typo3temp/_processed_/1/b/csm_2121-205_company_import_039be0b331.png",
+          "url": "https://sandroptv.blogspot.com/2023/05/panamericana.html",
+          "embed": true
+        },
+        {
+          "name": "ATV",
+          "image": "https://www.telegratishd.com/imge/atv.png",
+          "url": "https://sandroptv.blogspot.com/2023/05/atv.html",
+          "embed": true
+        },
+        {
+          "name": "TV PERU",
+          "image": "https://www.telegratishd.com/imge/tvperu.png",
+          "url": "https://sandroptv.blogspot.com/2026/09/tv-peru.html",
+          "embed": true
+        }
+      ]
+    },
+    {
+      "name": "CINE Y PELICULAS",
+      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Eventuales.png",
+      "stations": [
+        {
+          "name": "CINEMUNDO PLUS",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/cinemundo_plus.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_plus.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/mangondelicioso"
+        },
+        {
+          "name": "CRITICANDO PELIS 3",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/criticando_pelis3.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_criticando_pelis3.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/mangondelicioso"
+        },
+        {
+          "name": "MEGAMOVIES HD",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/megamovieshd.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_megamovieshd.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/megamovieshd"
+        },
+        {
+          "name": "MEGA EXTREMO",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/mega_extremo.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_mega_extremo.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/mega_extremo"
+        },
+        {
+          "name": "MEGAMUNDO HD",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/megamundohd.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_megamundohd.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/megamundohd"
+        },
+        {
+          "name": "JUANCINE TV",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/juancine_tv.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_juancine_tv.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/mangondelicioso"
+        },
+        {
+          "name": "GOKU TV OFICIAL",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/goku_tv_oficial.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_goku_tv_oficial.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/mangondelicioso"
+        },
+        {
+          "name": "GOKU TV LATAM",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/goku_tv_latam.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_goku_tv_latam.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/mangondelicioso"
+        },
+        {
+          "name": "MEGA KIDS",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/mega_kids.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_mega_kids.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/mangondelicioso"
+        },
+        {
+          "name": "NETFLIX",
+          "image": "https://cdn.vaughnsoft.net/profile/1208/a_neflix01.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/mangondelicioso"
+        },
+        {
+          "name": "PUNTO MOVIES",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/punto_movies.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_punto_movies.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/mangondelicioso"
+        },
+        {
+          "name": "PELICULAS MANIA",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/peliculas_mania.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/peliculas_mania"
+        },
+        {
+          "name": "MANGODELICIOSO",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/mangondelicioso.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_mangondelicioso.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/cinepeliculas507"
+        },
+        {
+          "name": "ZONA FILMS TV",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/zonafilmstv.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_zonafilmstv.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/zonafilmstv"
+        },
+        {
+          "name": "X PELICULAS",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/xpeliculas.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_xpeliculas.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/xpeliculas"
+        },
+        {
+          "name": "RED 12",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/red12.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_red12.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/mangondelicioso"
+        },
+        {
+          "name": "ZONA STEREO",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/zonastereo.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_zonastereo.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/mangondelicioso"
+        },
+        {
+          "name": "SIMPSON MANIA",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/simpson_maniahd189.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv",
+          "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+          "referer": "https://vaughn.live/mangondelicioso"
+        },
+        {
+          "name": "CINE PELICULAS PTY",
+          "image": "https://cdn.vaughnsoft.net/profile/1217/peliculas_mania.jpg",
+          "url": "https://stream-cdn-iad.vaughnsoft.net/ppremium",
           "embed": true
         }
       ]
