@@ -779,6 +779,14 @@
           "userAgent": "exoplayer_video",
           "isHost": true
         },
+{
+"name": "Espn2",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png",
+                    "url": "https://televisiongratis.foroactivo.com/h5-media3.html?get=dsports",
+"referer": "https://televisiongratis.foroactivo.com/h5-media3.html?get=dsports",
+                    "isHost": true
+                },
+
         {
           "name": "DIRECTV GO",
           "image": "https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
